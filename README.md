@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://i.imgur.com/aMMGyHQ.jpeg" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://github.com/user-attachments/assets/7d7b2426-41cb-4854-88c2-5c20423b3b4f" height="80%" width="80%" alt="Setting Up in Azure"/> 
+
 <br />
 
 <h1>Preparing Active Directory Infrastructure in Azure</h1>
